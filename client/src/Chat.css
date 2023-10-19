@@ -5,6 +5,8 @@
   width: 40vw;
   border: 2px solid black;
   background: rgb(187, 191, 193);
+  background-image: url("C:/Users/ayush/Desktop/ROSP/socket-chat-app/client/public/ranger-4df6c1b6.png");
+  background-size: cover;
 }
 
 .main {
